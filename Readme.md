@@ -24,3 +24,4 @@ Crea con Postman un crud a la Api de películas
 
 - Modifica el Json a tu gusto y añade imágenes de portada de las películas
 
+<a href=https://github.com/typicode/json-server>JSON-Server documentation:</a>
