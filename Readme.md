@@ -1,6 +1,6 @@
 # Api películas
 
-Crea con Postman un crud a la Api de películas
+Crea con Postman un crud a la Api de películas pero utilizarlo con el plugin de VSCode REST Client.
 
 ## Instalación
 
